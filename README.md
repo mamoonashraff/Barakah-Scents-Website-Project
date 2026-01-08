@@ -1,5 +1,5 @@
 
-# Barakah-Scents-Project - Semester Proeject.
+# Barakah-Scents-Project - Semester Project.
 Barakah-Scents is a fully responsive E-commerce website designed to showcase and sell premium free alcohol-free perfumes and Attar.This project was Devoloped as a requirement for the First Semester Project.
 *Key Features*
 Responsive UI: Built using CSS Flexox,ensuring perfect layout on Desktop.
