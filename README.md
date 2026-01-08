@@ -10,3 +10,4 @@ Project Requirements: Includes a detailed *contact Form* with dropdown options.
 HTML5: (Structure and Semantic tags)
 CSS: (Custom Styling ,Hover Effects,Flexbox)
 JavaScript: (Fronted Logic)
+https://mamoonashraff.github.io/Barakah-Scents-Website-Project/
